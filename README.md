@@ -1,4 +1,4 @@
-# bash-automation-bloop-sbt
+# bash-cli-automation-bloop-sbt
 
 ## Description
 A bash for adding bloop to sbt builds.
